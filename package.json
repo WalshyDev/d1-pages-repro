@@ -1,0 +1,23 @@
+{
+  "name": "d1-pages-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WalshyDev/d1-pages-repro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WalshyDev/d1-pages-repro/issues"
+  },
+  "homepage": "https://github.com/WalshyDev/d1-pages-repro#readme",
+  "dependencies": {
+    "@cloudflare/d1": "^1.4.1"
+  }
+}
